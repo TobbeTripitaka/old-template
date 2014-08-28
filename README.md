@@ -62,7 +62,7 @@ author. `0` means the first affiliation listed in `affil`, `1` the second, etc.
 
 At the moment available templates are:
 
-* `geophysics`: [Geophysics](http://library.seg.org/journal/gpysa7)).
+* `geophysics`: [Geophysics](http://library.seg.org/journal/gpysa7).
 * `gji`: [Geophysical Journal International](http://gji.oxfordjournals.org/)
 
 SCons will take care of producing the Latex file and then compiling it to PDf.
